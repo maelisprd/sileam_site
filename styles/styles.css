@@ -2,8 +2,8 @@
 @import "onglet.css";
 @import "container.css"; 
 @import "button.css";   
-@import "footer.css";
-@import "slideshow";    
+@import "footer.css";    
+@import "articles.css";
 
 a{
     text-decoration: none;
