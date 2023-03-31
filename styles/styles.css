@@ -8,3 +8,8 @@
 a{
     text-decoration: none;
 }
+
+.diapo{
+    width: 75%;
+    margin: 48px auto;
+}
