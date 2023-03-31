@@ -1,0 +1,10 @@
+@import "banner.css";
+@import "onglet.css";
+@import "container.css"; 
+@import "button.css";   
+@import "footer.css";
+@import "slideshow";    
+
+a{
+    text-decoration: none;
+}

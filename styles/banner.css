@@ -1,0 +1,10 @@
+.banner {
+    color: black;
+    background-color: #A9A9A9;
+    padding: 6px;
+    text-align: center;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
